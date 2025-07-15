@@ -1,5 +1,8 @@
 # Simple-Ecommocse-Api
 A simple Ecommorce web application for both admin and customer ,Have been add products to carts and order from cart and perform CRUD operations on it.
+1.Go to backend directory in command "npm install"
+2.Then type "npm run dev"
+3.Go to  http://localhost:5000/login.html //register.html
 
 🛒 E-Commerce Web Application – Documentation Report
 
