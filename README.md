@@ -3,14 +3,16 @@ A simple Ecommorce web application for both admin and customer ,Have been add pr
 
 🛒 E-Commerce Web Application – Documentation Report
 
+<img width="1920" height="1024" alt="Screenshot 2025-07-15 143050" src="https://github.com/user-attachments/assets/64a8db89-e319-4988-8410-65cef355044c" />
 
 
-![alt text](<Screenshot 2025-07-15 143050.png>)
-![alt text](<Screenshot 2025-07-15 143108.png>)
+<img width="1920" height="1024" alt="Screenshot 2025-07-15 143132" src="https://github.com/user-attachments/assets/8d2e08ed-b0e4-4212-9942-577bafd610a5" />
+<img width="1920" height="1024" alt="Screenshot 2025-07-15 143115" src="https://github.com/user-attachments/assets/17c4309d-37a4-4579-82c8-1ef564159c80" />
+<img width="1920" height="1024" alt="Screenshot 2025-07-15 143132" src="https://github.com/user-attachments/assets/27565101-757c-4489-82ee-b93e9cf9e0c8" />
 
-![alt text](<Screenshot 2025-07-15 143115.png>)
 
-![alt text](<Screenshot 2025-07-15 143132.png>)
+
+
 
 1. 📌 Project Overview
 ->This is a role-based E-commerce web application built using:
